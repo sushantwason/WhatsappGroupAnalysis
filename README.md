@@ -17,6 +17,7 @@ Output: file describing the following
 
 
 How to RUN
+
 1. Give the appropriate file path location in the code
 2. Run it as a python script ( python whatsappAnalysis.py)
 3. Compatible with python 2.3 +
