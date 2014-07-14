@@ -5,10 +5,10 @@ import re
 
 english_dictionary=[]
 groupeo=[]
-member_file='' #Enter the full path of conf file that stores the group member's names
-oxford_dictionary_file='' #Enter the full path of the file that stores all the list of english words
-chat_transcript_file='' #Enter the full path of the file that stores the text transcript of the group chat
-output_file_location='' #Enter the full path of the file where you want the output to be stored
+member_file='member_file' #Enter the full path of conf file that stores the group member's names
+oxford_dictionary_file='dict_file' #Enter the full path of the file that stores all the list of english words
+chat_transcript_file='chat_transcript_file' #Enter the full path of the file that stores the text transcript of the group chat
+output_file_location='result_file' #Enter the full path of the file where you want the output to be stored
 
 def load_members():
     '''TODO:
